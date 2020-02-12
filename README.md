@@ -1,6 +1,8 @@
 What
 ====
 
-This notebook demos my work to perform deep packet inspection and classify V2ray traffic.
+This is a collection of Python notebooks of my on-going research on deep packet inspection.
 
-For more details, visit [my blog post](https://fr33land.net/2020/01/18/we-are-fucked/).
+1. [V2Ray Deep Packet Inspection Notebook](https://github.com/rickyzhang82/V2Ray-Deep-Packet-Inspection/blob/master/V2Ray%20Deep%20Packet%20Inspection.ipynb) demos my work to perform deep packet inspection and classify V2ray traffic. For more details, please visit [my blog post](https://fr33land.net/2020/01/18/we-are-fucked/).
+1. [Adversarial Examples for Traffic Classifiers Notebook](https://github.com/rickyzhang82/V2Ray-Deep-Packet-Inspection/blob/master/Adversarial%20Examples%20for%20Traffic%20Classifiers.ipynb) demos white-box adversarial example to evade V2Ray classifier. For more details, please visit [my blog post](https://fr33land.net/2020/02/12/white-box-adversarial-example/).
+
