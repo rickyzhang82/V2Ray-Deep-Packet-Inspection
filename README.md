@@ -1,3 +1,13 @@
+EMERGENCY
+=========
+
+Please consider making your donation to the National Bank of Ukraine. The fundraiser [National Bank of Ukraine or NBU](https://en.wikipedia.org/wiki/National_Bank_of_Ukraine) is the central bank of Ukraine. You could help freedom fighters and Ukrainian civilians in humanitarian crisis:
+
+- [Funds for Ukraine’s Armed Forces](https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi)
+- [Funds for Humanitarian Assistance to Ukrainians Affected by Russia’s Aggression](https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-rahunok-dlya-gumanitarnoyi-dopomogi-ukrayintsyam-postrajdalim-vid-rosiyskoyi-agresiyi)
+
+Thanks for your support.
+
 What
 ====
 
